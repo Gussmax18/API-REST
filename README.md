@@ -39,4 +39,3 @@ senha
 
 Necessário utilizar um banco de dados sendo de sua escolha relacional ou não relacional.
 
-A entrega deve ser feita pelo link do repositório do github.
